@@ -14,3 +14,4 @@ let package = Package(
         .Package(url: "https://github.com/apple/example-package-deckofplayingcards.git", majorVersion: 1),
     ]
 )
+test
