@@ -1,5 +1,5 @@
 ======
-Magnum test
+Magnum
 ======
 
 Magnum is an OpenStack project which offers container orchestration engines
