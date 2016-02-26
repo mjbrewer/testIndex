@@ -11,6 +11,7 @@ import PackageDescription
 let package = Package(
     name: "Dealer",
     dependencies: [
+        .Package(url: "git@github.com:mjbrewer/Test-SwiftyJSON.git", majorVersion: 1),
         .Package(url: "https://github.com/mjbrewer/Test-SwiftyJSON.git", majorVersion: 1),
         .Package(url: "https://github.com/mjbrewer/ursula.git"),
         .Package(url: "https://github.com/apple/example-package-deckofplayingcards.git", majorVersion: 1),
